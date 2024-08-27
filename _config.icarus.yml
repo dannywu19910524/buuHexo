@@ -3,11 +3,11 @@ version: 5.1.0
 # Icarus theme variant, can be "default" or "cyberpunk"
 variant: default
 # Path or URL to the website's logo
-logo: /img/logo.svg
+logo: /img/logo.jpg
 # Page metadata configurations
 head:
     # URL or path to the website's icon
-    favicon: /img/favicon.svg
+    favicon: /img/logo.jpg
     # Web application manifests configuration
     # https://developer.mozilla.org/en-US/docs/Web/Manifest
     manifest:
@@ -105,10 +105,10 @@ head:
 navbar:
     # Navigation menu items
     menu:
-        Home: /
-        Archives: /archives
-        Categories: /categories
-        Tags: /tags
+        主页: /
+        文章列表: /archives
+        类目: /categories
+        标签: /tags
         About: /about
     # Links to be shown on the right of the navigation bar
     links:
@@ -229,36 +229,24 @@ widgets:
         position: left
         type: profile
         # Author name
-        author: Your name
+        author: 布欧说卡
         # Author title
-        author_title: Your title
+        author_title: 布欧
         # Author's current location
-        location: Your location
+        location: Shanghai
         # URL or path to the avatar image
-        avatar: 
+        avatar: /img/logo.jpg
         # Whether show the rounded avatar image
         avatar_rounded: false
         # Email address for the Gravatar
         gravatar: 
         # URL or path for the follow button
-        follow_link: https://github.com/ppoffice
+        follow_link: http://weixin.qq.com/r/GxKdhUnEsBTPrQ3m90cJ
         # Links to be shown on the bottom of the profile widget
         social_links:
             Github:
                 icon: fab fa-github
                 url: https://github.com/ppoffice
-            Facebook:
-                icon: fab fa-facebook
-                url: https://facebook.com
-            Twitter:
-                icon: fab fa-twitter
-                url: https://twitter.com
-            Dribbble:
-                icon: fab fa-dribbble
-                url: https://dribbble.com
-            RSS:
-                icon: fas fa-rss
-                url: /
     # Table of contents widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
@@ -278,7 +266,6 @@ widgets:
         # Names and URLs of the sites
         links:
             Hexo: https://hexo.io
-            Bulma: https://bulma.io
     # Categories widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
@@ -315,14 +302,14 @@ widgets:
         # Feedburner ID
         feedburner_id: ''
     # Google AdSense unit configurations
-    -
-        # Where should the widget be placed, left sidebar or right sidebar
-        position: left
-        type: adsense
-        # AdSense client ID
-        client_id: ''
-        # AdSense AD unit ID
-        slot_id: ''
+    #-
+    #    # Where should the widget be placed, left sidebar or right sidebar
+    #    position: left
+    #    type: adsense
+    #    # AdSense client ID
+    #    client_id: ''
+    #    # AdSense AD unit ID
+    #    slot_id: ''
     # Follow.it email subscription widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar

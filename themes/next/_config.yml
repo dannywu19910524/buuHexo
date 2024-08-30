@@ -690,18 +690,13 @@ disqus:
   shortname: buu
   count: true
 
-#facebook sdk
-facebook_sdk:
+utterances:
   enable: true
-  app_id:
-    fb_admin:
-      like_button:  true
-      webmaster:    #true
-facebook_comments_plugin:
-  enable: true
-  num_of_posts: 10
-  scheme: light
-  width: 100%
+  repo: dannywu19910524/buuHexo # Github repository name
+  # Available values: pathname | url | title | og:title
+  issue_term: title
+  # Available values: github-light | github-dark | preferred-color-scheme | github-dark-orange | icy-dark | dark-blue | photon-dark | boxy-light
+  theme: github-light
 
 # DisqusJS
 # For more information: https://disqusjs.skk.moe
@@ -744,16 +739,6 @@ gitalk:
   # If you want everyone visiting your site to see a uniform language, you can set a force language value
   # Available values: en | es-ES | fr | ru | zh-CN | zh-TW
   language:
-
-# Utterances
-# For more information: https://utteranc.es
-utterances:
-  enable: false
-  repo: user-name/repo-name # Github repository owner and name
-  # Available values: pathname | url | title | og:title
-  issue_term: pathname
-  # Available values: github-light | github-dark | preferred-color-scheme | github-dark-orange | icy-dark | dark-blue | photon-dark | boxy-light
-  theme: github-light
 
 # Isso
 # For more information: https://isso-comments.de

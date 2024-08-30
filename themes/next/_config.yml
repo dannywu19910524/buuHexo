@@ -143,9 +143,9 @@ sidebar:
 # Sidebar Avatar
 avatar:
   # Replace the default image and set the url here.
-  url: #/images/avatar.gif
+  url: /img/logo.jpg #/images/avatar.gif
   # If true, the avatar will be displayed in circle.
-  rounded: false
+  rounded: true
   # If true, the avatar will be rotated with the cursor.
   rotated: false
 
@@ -687,8 +687,16 @@ comments:
 # For more information: https://disqus.com
 disqus:
   enable: false
-  shortname:
+  shortname: buu
   count: true
+
+#facebook sdk
+facebook_sdk:
+  enable: true
+  app_id:
+    fb_admin:
+      like_button:  true
+      webmaster:    #true
 
 # DisqusJS
 # For more information: https://disqusjs.skk.moe

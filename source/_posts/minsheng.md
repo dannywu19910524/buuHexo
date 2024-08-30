@@ -1,8 +1,12 @@
 updated: 2024-08-28 20:00:00
 title: 攻略 ｜ 民生百夫长白：可能是你最容易入手的金属卡
 cover: /img/baifuzhang.webp
-
-
+categories:
+  - 信用卡攻略
+tags:
+  - 民生银行
+  - 团办
+  - 百夫长
 ---
 
 

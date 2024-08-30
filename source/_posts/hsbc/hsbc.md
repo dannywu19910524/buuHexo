@@ -1,6 +1,11 @@
 updated: 2024-08-13 20:00:00
 title: 汇丰中国信用卡：免费的双组织顶级套卡
 cover: /img/640.webp
+categories:
+  - 信用卡攻略
+tags:
+  - 汇丰银行
+  - 团办
 ---
 
 ## 汇丰<font color=red>中国信用卡</font>  

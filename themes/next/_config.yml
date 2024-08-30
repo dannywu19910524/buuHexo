@@ -697,6 +697,11 @@ facebook_sdk:
     fb_admin:
       like_button:  true
       webmaster:    #true
+facebook_comments_plugin:
+  enable: true
+  num_of_posts: 10
+  scheme: light
+  width: 100%
 
 # DisqusJS
 # For more information: https://disqusjs.skk.moe

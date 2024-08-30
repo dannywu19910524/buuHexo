@@ -1,4 +1,5 @@
-updated: 2024-08-28 20:00:00
+updated: 2024-08-29 20:00:00
+date: 2024-08-28 20:00:00
 title: 攻略 ｜ 民生百夫长白：可能是你最容易入手的金属卡
 cover: /img/baifuzhang.webp
 categories:

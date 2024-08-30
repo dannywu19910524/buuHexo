@@ -1,4 +1,5 @@
-updated: 2024-08-13 20:00:00
+updated: 2024-08-13 21:00:00
+date: 2024-08-13 20:00:00
 title: 汇丰中国信用卡：免费的双组织顶级套卡
 cover: /img/640.webp
 categories:

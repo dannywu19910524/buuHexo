@@ -4,7 +4,7 @@ title: 攻略 ｜ 境外卡申请之OCBC华侨银行
 author: zz
 cover: /img/ocbc/logo.webp
 categories:
-  - 信用卡攻略
+  - 借记卡攻略
 tags:
   - 华侨银行
   - 外卡
